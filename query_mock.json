@@ -1,0 +1,9 @@
+{
+  "queryId": "q_user_profile_99",
+  "mockDatabaseResult": {
+    "userId": "usr_901",
+    "name": "Engineer A",
+    "role": "Backend Engineer",
+    "status": "active"
+  }
+}
